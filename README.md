@@ -1,6 +1,6 @@
 # Param Siddharth
 
-<img src='https://www.paramsid.com/zarurat/me.jpg' alt='Me' style='height: 150px; width:150px;'>
+<img src='https://www.paramsid.com/zarurat/me.jpg' alt='Me' height='150px' width='150px'>
 
 ### I am Param Siddharth Manu. I am a simple person who wants to become wise and loves the nature. 🌏❤ I know stuff and I make things.
 
