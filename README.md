@@ -22,9 +22,8 @@ I have been programming since 2013. It has been long; Go ahead and check out my 
 			<img src='social.png' alt='Social links on website'>
 		</kbd>
 	</a>
-	<br>
-	Click the image above to explore all.
 </p>
+<h2 align='center'>Click the image above to... Hmph, you'll know.</h2>
 
 I code a lot. Like really, a lot.
 
