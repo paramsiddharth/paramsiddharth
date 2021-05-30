@@ -6,7 +6,7 @@
 
 ### I am Param Siddharth Manu. I am a simple person who wants to become wise and loves the nature. 🌏❤ I know stuff and I make things.
 
-```
+```php
 echo "Let's proceed!\n";
 ```
 
