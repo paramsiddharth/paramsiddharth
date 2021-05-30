@@ -13,6 +13,14 @@ echo "Let's proceed!\n";
 ## About
 I have been programming since 2013. It has been long; Go ahead and check out my projects! There's so much that I have compiled a nice list [here](https://www.paramsid.com/works/software.html).
 
+I code a lot. Like really, a lot.
+
+> ...command-line, GUI, and web-based applications, ... Express, React, Flask, MongoDB, SQL, and cross-platform C/C++ ... APIs, UI/UX design, back-end and business logic development, data science, machine learning, deployment, and containerization.
+
+Honestly, you should just open my website or LinkedIn to see
+more, but a follow on social media would be just as much
+appreciated. :)
+
 <h2 align='center'><strong>* Whispers in horror *</strong></h2>
 <h3 align='center'><em> "I'm everywhere..."</em></h3>
 <p align='center'>
@@ -24,14 +32,6 @@ I have been programming since 2013. It has been long; Go ahead and check out my 
 	</a>
 </p>
 <h2 align='center'>Click the image above to... Hmph, you'll know.</h2>
-
-I code a lot. Like really, a lot.
-
-> ...command-line, GUI, and web-based applications, ... Express, React, Flask, MongoDB, SQL, and cross-platform C/C++ ... APIs, UI/UX design, back-end and business logic development, data science, machine learning, deployment, and containerization.
-
-Honestly, you should just open my website or LinkedIn to see
-more, but a follow on social media would be just as much
-appreciated. :)
 
 ## To Do
 As a visitor here, you are assigned a to-do list. Go, check
