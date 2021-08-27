@@ -46,7 +46,7 @@ me out on each of these platforms.
 | [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/paramsiddharth?tab=repositories) | That's exactly what you're seeing right now. Head over to the repositories for more. |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramsiddharth) | More professional, I guess. You'll find my professional history there. |
 | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ParamSiddharth) | Apparently I make music too, so yes. |
-| [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1bUv1VdCaRqqHIgsSfUqkU) | My original songs are on Spofity. Should've expected that, right? |
+| [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1bUv1VdCaRqqHIgsSfUqkU) | My original songs are on Spotify. Should've expected that, right? |
 | [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12547142/param-siddharth) | Not the error, the platform. I mostly answer questions. |
 
 I have [SoloLearn](https://www.sololearn.com/Profile/2271086), [HackerRank](https://www.hackerrank.com/paramsiddharth), and [CodeChef](https://www.codechef.com/users/paramsiddharth) too.
