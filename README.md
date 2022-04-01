@@ -4,7 +4,7 @@
 	<img src='https://www.paramsid.com/zarurat/me.jpg' alt='Me' height='150px' width='150px'>
 </p>
 
-### I am Param Siddharth Manu. I am a simple person who wants to become wise and loves the nature. 🌏❤ I know stuff and I make things.
+### I am Param Siddharth Manu. I am a simple person who wants to become wise and loves the nature. 🌏❤ I know stuff and I make things. 🏳️‍🌈🇮🇳💕✨
 
 ```php
 echo "Let's proceed!\n";
